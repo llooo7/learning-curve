@@ -1,0 +1,5 @@
+﻿  Blackjack.cpp
+D:\Drive\Repos\blackjack\Blackjack\Blackjack.cpp(155,29): warning C4305: 'argument': truncation from 'char' to 'bool'
+D:\Drive\Repos\blackjack\Blackjack\Blackjack.cpp(158): warning C4715: 'continuePlayingCheck': not all control paths return a value
+D:\Drive\Repos\blackjack\Blackjack\Blackjack.cpp(117): warning C4715: 'ifStand': not all control paths return a value
+  Blackjack.vcxproj -> D:\Drive\Repos\blackjack\Blackjack\Debug\Blackjack.exe
